@@ -5,3 +5,6 @@ console.log("change 3")
 // first commit
 // second commit 
 // third commit 
+
+
+console.log("the last commit with friend")
